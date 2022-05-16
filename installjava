@@ -1,4 +1,4 @@
-#!/data/data/com.termux/files/usr/bin/bash
+#!/data/data/com.neoterm/files/usr/bin/bash
 
 #Setup
 set -e
@@ -7,7 +7,7 @@ alias ee='echo -e'
 
 #Greetings
 echo
-ee "\e[93mThis script will install Java in Termux."
+ee "\e[93mThis script will install Java in NeoTerm."
 ee "\e[93mLibraries compiled by \e[32mHax4us\e[93m, script written by \e[32mHax4us \e[93mand \e[32mMasterDevX\e[93m."
 echo
 
