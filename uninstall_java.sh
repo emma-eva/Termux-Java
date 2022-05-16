@@ -1,4 +1,4 @@
-#!/data/data/com.termux/files/usr/bin/bash
+#!/data/data/com.neoterm/files/usr/bin/bash
 
 #Setup
 shopt -s expand_aliases
@@ -6,7 +6,7 @@ alias ee='echo -e'
 
 #Greetings
 echo
-ee "\e[93mThis script will uninstall Java from Termux."
+ee "\e[93mThis script will uninstall Java from NeoTerm."
 echo
 
 #Checking for existing Java installation
